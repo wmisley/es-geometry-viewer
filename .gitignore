@@ -1,0 +1,8 @@
+target/
+scrap/
+*.iml
+.idea/
+dependency-reduced-pom.xml
+.gitignore
+pom.xml
+src/
